@@ -3,8 +3,11 @@
 Learning something new everyday
 
 ### Categories
-[Security](https://github.com/marcuusmelo/til/tree/main/security)
+- [Procedures](#procedures)
+- [Security](#security)
 
 ---
+### Procedures
+- [Postmortems](procedures/postmortems.md)
 ### Security
-- [Application Layer Encryption](https://github.com/marcuusmelo/til/blob/main/security/application_layer_encryption.md)
+- [Application Layer Encryption](security/application_layer_encryption.md)
