@@ -4,6 +4,7 @@ Learning something new everyday
 
 ### Categories
 - [Databases](#databases)
+- [Git](#git)
 - [Procedures](#procedures)
 - [Security](#security)
 - [SQL](#sql)
@@ -13,6 +14,9 @@ Learning something new everyday
 - [Introduction to Databases](databases/intro_to_databases.md)
 - [Querying Relational Databases](databases/querying_relational_databases.md)
 - [Relational Model](databases/relational_model.md)
+
+### Git
+- [Reset](git/reset.md)
 
 ### Procedures
 - [Postmortems](procedures/postmortems.md)
