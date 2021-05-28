@@ -3,6 +3,7 @@
 Learning something new everyday
 
 ### Categories
+- [Data Architecture](#data_architecture)
 - [Databases](#databases)
 - [Git](#git)
 - [Procedures](#procedures)
@@ -10,10 +11,17 @@ Learning something new everyday
 - [SQL](#sql)
 
 ---
+
+### Data Architecture
+- [Data Warehouse](data_architecture/data_warehouse.md)
+- [Data Lake](data_architecture/data_lake.md)
+- [Data Mesh](data_architecture/data_mesh.md)
+
 ### Databases
 - [Introduction to Databases](databases/intro_to_databases.md)
 - [Querying Relational Databases](databases/querying_relational_databases.md)
 - [Relational Model](databases/relational_model.md)
+- [OLTP and OLAP](databases/oltp_and_olap.md)
 
 ### Git
 - [Reset](git/reset.md)
