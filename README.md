@@ -19,6 +19,7 @@ Learning something new everyday
 
 ### Databases
 - [Introduction to Databases](databases/intro_to_databases.md)
+- [Long Running Queries](databases/long_running_queries.md)
 - [Querying Relational Databases](databases/querying_relational_databases.md)
 - [Relational Model](databases/relational_model.md)
 - [OLTP and OLAP](databases/oltp_and_olap.md)
