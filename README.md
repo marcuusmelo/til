@@ -35,6 +35,7 @@ Learning something new everyday
 
 ### SQL
 - [Aggregations](sql/aggregations.md)
+- [Constraints](sql/constraints.md)
 - [Data Modification Statements](sql/data_modification_statements.md)
 - [Indexes](sql/indexes.md)
 - [Join](sql/join.md)
@@ -48,4 +49,5 @@ Learning something new everyday
 - [Transaction Isolation Levels](sql/transaction_isolation_levels.md)
 - [Transaction Properties](sql/transaction_properties.md)
 - [Transactions](sql/transactions.md)
+- [Triggers](sql/triggers.md)
 - [Variables](sql/variables.md)
