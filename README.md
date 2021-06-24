@@ -25,6 +25,7 @@ Learning something new everyday
 - [OLTP and OLAP](databases/oltp_and_olap.md)
 
 ### Git
+- [Cherry Pick](git/cherry_pick.md)
 - [Reset](git/reset.md)
 
 ### Procedures
